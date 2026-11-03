@@ -11,11 +11,3 @@ root@citadel:~# whoami --verbose
 > Main Project: Project Citadel (Home Server, NAS & Smart Security)
 > Hardware:    High-End Custom PC Assembly & Diagnostics
 > Status:      [ONLINE] All systems operational
-
-### 🛠 My Arsenal:
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Architecture-05122A?style=for-the-badge&logo=cisco&logoColor=white)
-![Hardware](https://img.shields.io/badge/PC_Building-2C2D72?style=for-the-badge&logo=amd&logoColor=white)
-
-### 📊 GitHub Activity:
-![GitHub Streak](https://streak-stats.demolab.com?user=VolodiaMS&theme=radical&hide_border=true)
