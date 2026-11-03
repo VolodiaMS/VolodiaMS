@@ -15,4 +15,4 @@ I'm a cybersecurity and IT infrastructure specialist based in Kyiv.
 ![Hardware](https://img.shields.io/badge/PC_Building-2C2D72?style=for-the-badge&logo=amd&logoColor=white)
 
 ### 📊 GitHub Activity:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VolodiaMS&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VolodiaMS&theme=radical&hide_border=true)
